@@ -1,1 +1,2 @@
 D:\AhoraSI\AhoraSi\bin\Debug\AhoraSi.exe.config
+C:\Users\Hitachiin-Sama\Documents\GitHub\AhoraSI\AhoraSi\bin\Debug\AhoraSi.exe.config
