@@ -64,6 +64,14 @@ namespace AhoraSi {
         #line default
         #line hidden
         
+        
+        #line 13 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Label label;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -101,6 +109,9 @@ namespace AhoraSi {
             this.button2 = ((System.Windows.Controls.Button)(target));
             return;
             case 3:
+            this.label = ((System.Windows.Controls.Label)(target));
+            return;
+            case 4:
             this.label = ((System.Windows.Controls.Label)(target));
             return;
             }
